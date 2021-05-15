@@ -1,5 +1,4 @@
-# CMP615 Graph Mining and Network Analysis
-## Assignment-3
+# Network Node Analysis Measures
 
 ###### a. Degree Centrality (normalized)
 ###### b. Closeness Centrality (normalized)
