@@ -11,13 +11,10 @@
 ### 1) Install Requirements: 
 ###### python -m pip install -r requirements.txt
 
-### 2) Install Requirements: 
-###### python -m pip install -r requirements.txt
-
-### 3) Run the Script:
+### 2) Run the Script:
 ###### python main.py
 
-### 4) Choose the dataset file: 
+### 3) Choose the dataset file: 
 'Input the dataset Filename:' will pop up. Then select one of the dataset file with extension (.txt).
 
 ###### For example: 
